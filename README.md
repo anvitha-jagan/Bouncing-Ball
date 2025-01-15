@@ -1,2 +1,3 @@
 # Bouncing-Ball
-a simulation of a bouncing ball in Nvidia
+a simulation created using Nvidia Omniverse
+a simulation of a bouncing ball
